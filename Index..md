@@ -22,9 +22,9 @@
 
 [![Unidad 1](https://img.shields.io/badge/📘_Unidad_1-4CAF50?style=for-the-badge)](Unidad1.md)
 
-[![Unidad 2](https://img.shields.io/badge/📙_Unidad_2-2196F3?style=for-the-badge)](#-unidad-2)
+[![Unidad 2](https://img.shields.io/badge/📙_Unidad_2-2196F3?style=for-the-badge)](Unidad2.md)
 
-[![Unidad 3](https://img.shields.io/badge/📕_Unidad_3-FF5722?style=for-the-badge)](#-unidad-3)
+[![Unidad 3](https://img.shields.io/badge/📕_Unidad_3-FF5722?style=for-the-badge)](Unidad3.md)
 
 ---
 
