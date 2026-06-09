@@ -1,18 +1,5 @@
 <div align="center">
 
-# 🎓 Universidad Nacional de Loja
-## Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
-### Carrera de Ingeniería en Computación
-
----
-
-# 📚 Portafolio de Matemática Discreta – ACD1
-
-👨‍🎓 **Autor:** Jose Camilo Merino Morocho  
-👨‍🏫 **Docente:** Ing. Mario Cueva Hurtado  
-📖 **Ciclo:** Primero  
-📌 **Unidad:** Uno
-
 ---
 
 </div>
