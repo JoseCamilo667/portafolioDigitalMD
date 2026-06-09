@@ -52,7 +52,10 @@
 ---
 
 ## 📙 Unidad 2
-- *(Agregar contenido cuando esté disponible)*
+- Álgebra Booleana
+- Principios de álgebra booleana y simplificación de expresiones
+- Análisis teórico de leyes y propiedades mediante ejemplos prácticos
+
 
 ---
 
