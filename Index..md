@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🎓 UNIVERSIDAD NACIONAL DE LOJA
+# 🎓 UNIVERSIDAD NACIONAL DE LOJA 🎓
 
 <img width="350" alt="Sello UNL" src="https://github.com/user-attachments/assets/4860f66d-04aa-472e-8df6-fb32526f5482" />
 
-### ⚡ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
-### 💻 Carrera de Ingeniería en Computación
+## ⚡ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables⚡ 
+## 💻 Carrera de Ingeniería en Computación💻
 
 ---
 
