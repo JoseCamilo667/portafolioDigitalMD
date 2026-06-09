@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Logo_UNL.png" width="180px">
-
 # 🎓 UNIVERSIDAD NACIONAL DE LOJA
+
+<img width="350" alt="Sello UNL" src="https://github.com/user-attachments/assets/4860f66d-04aa-472e-8df6-fb32526f5482" />
 
 ### ⚡ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 ### 💻 Carrera de Ingeniería en Computación
@@ -10,7 +10,7 @@
 ---
 
 # 📚 PORTAFOLIO DIGITAL DE APRENDIZAJE
-## Matemática Discreta
+# Matemática Discretas
 
 ### 📖 Ciclo I
 ### 👨‍🎓 Autor: Jose Camilo Merino Morocho
