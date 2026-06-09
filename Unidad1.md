@@ -230,35 +230,35 @@ Las reglas de inferencia permiten obtener conclusiones válidas a partir de prem
 ## 🔹 Traducción de Lenguaje Natural a Simbólico
 
 📎 Enlace:
-<https://drive.google.com/file/d/1AoOQ8-Iwowj6snO2CbAG8p132W2u_e2/view>
+https://drive.google.com/file/d/1AoOQ8-Iwowj6snO2CbAG8p-132W2u_e2/view?usp=drive_link  
 
 ---
 
 ## 🔹 Construcción de Tablas de Verdad
 
 📎 Enlace:
-<https://drive.google.com/file/d/1uvADu2nWdQAeqR3ZE6ZKAog8xgweP_IG/view>
+https://drive.google.com/file/d/1uvADu2nWdQAeqR3ZE6ZKAog8xgweP_IG/view?usp=sharing  
 
 ---
 
 ## 🔹 Tautologías, Contradicciones y Contingencias
 
 📎 Enlace:
-<https://drive.google.com/file/d/1O_kVeNQDYKk2esrSAVaZLw48VXFU9uK/view>
+https://drive.google.com/file/d/1O_kVeNQDYKk2esrSAVaZLw-48VXFU9uK/view?usp=drive_link 
 
 ---
 
 ## 🔹 Aplicación de Leyes Proposicionales
 
 📎 Enlace:
-<https://drive.google.com/file/d/1QGaJz5MJVOZWduzRVN1qnJPMHMi1wcCn/view>
+https://drive.google.com/file/d/1QGaJz5MJVOZWduzRVN1qnJPMHMi1wcCn/view?usp=drive_link 
 
 ---
 
 ## 🔹 Validación de Argumentos
 
 📎 Enlace:
-<https://drive.google.com/file/d/1O_kVeNQDYKk2esrSAVaZLw48VXFU9uK/view>
+https://drive.google.com/file/d/1O_kVeNQDYKk2esrSAVaZLw-48VXFU9uK/view?usp=drive_link 
 
 ---
 
