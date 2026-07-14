@@ -2,9 +2,9 @@
 
 ---
 
-# 📝 Aprendizajes Prácticos Experimentales (APEs)
+# 📝 Aprendizajes Prácticos Experimentales (APES)
 
-## 👤 APEs Individuales
+## 👤 APES Individuales
 
 | Actividad | Fases | Enlace |
 |:----------|:-----:|:-------|
@@ -14,7 +14,7 @@
 
 ---
 
-## 👥 APEs Grupales
+## 👥 APES Grupales
 
 | Actividad | Fases | Enlace |
 |:----------|:-----:|:-------|
