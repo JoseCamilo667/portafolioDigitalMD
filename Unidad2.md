@@ -26,14 +26,15 @@
 
 
 ## AA ================================= ##
+### AA GRUPAL ###
 **[CLICK PARA VISUALIZAR](AA2-MatematicasDiscreatas.pdf)**
 
 
 
 ## ACD ================================= ##
 
-- ### ACD GRUPAL ###
+- ### ACD Grupal ###
   **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf)** 
 
-- ### ACD INNDIVIDUAL ###
+- ### ACD Individual ###
   **[CLICK PARA VISUALIZAR](ACD.md)**
