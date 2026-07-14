@@ -1,40 +1,45 @@
-# UNIDAD 2 - EJERCICIOS RESUELTOS  #
+# 📚 Unidad 2 - Ejercicios Resueltos
 
-## APES ##
+---
 
-### APES INDIVIDUALES ###
+# 📝 Aprendizajes Prácticos Experimentales (APEs)
 
-- #### APE 1: fase 1 y 2 ####
-  **[CLICK PARA VISUALIZAR](APE1.md)**
+## 👤 APEs Individuales
 
-- #### APE 2: fase 3 y 4 ####
-  **[CLICK PARA VISUALIZAR](APE2.md)**
+| Actividad | Fases | Enlace |
+|:----------|:-----:|:-------|
+| **APE 1** | Fase 1 y 2 | 📄 [Ver documento](APE1.md) |
+| **APE 2** | Fase 3 y 4 | 📄 [Ver documento](APE2.md) |
+| **APE 3** | Fase 4 y 5 | 📄 [Ver documento](APE3.md) |
 
-- #### APE 3: fase 4 y 5 ####
-  **[CLICK PARA VISUALIZAR](APE3.md)**
+---
 
-### APES GRUPALES ###
+## 👥 APEs Grupales
 
-- #### APE 1: fase 1 y 2 ####
-  **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%201%20U2%20-%20Matem%C3%A1ticas%20Discretas%20.pdf)**
+| Actividad | Fases | Enlace |
+|:----------|:-----:|:-------|
+| **APE 1** | Fase 1 y 2 | 📄 [Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%201%20U2%20-%20Matem%C3%A1ticas%20Discretas%20.pdf) |
+| **APE 2** | Fase 2 y 3 | 📄 [Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%202%20U2%20-Matem%C3%A1ticas%20Discretas.pdf) |
+| **APE 3** | Fase 4 y 5 | 📄 [Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%203%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf) |
 
-- #### APE 2: fase 2 y 3 ####
-  **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%202%20U2%20-Matem%C3%A1ticas%20Discretas.pdf)**
+---
 
-- #### APE 3: fase 4 y 5 ####
-  **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%203%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf)**
+# 💻 Aprendizaje Autónomo (AA)
 
+## 👥 Trabajo Grupal
 
-## AA  ##
-- ### AA GRUPAL ###
-  **[CLICK PARA VISUALIZAR](AA2-MatematicasDiscreatas.pdf)**
+| Actividad | Enlace |
+|:---------|:-------|
+| **AA Unidad 2** | 📄 [Ver documento](AA2-MatematicasDiscreatas.pdf) |
 
+---
 
+# 📖 Aprendizaje en Contacto con el Docente (ACD)
 
-## ACD  ##
+| Modalidad | Enlace |
+|:----------|:-------|
+| 👥 **ACD Grupal** | 📄 [Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf) |
+| 👤 **ACD Individual** | 📄 [Ver documento](ACD.md) |
 
-- ### ACD Grupal ###
-  **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf)** 
+---
 
-- ### ACD Individual ###
-  **[CLICK PARA VISUALIZAR](ACD.md)**
