@@ -1,4 +1,4 @@
-# Ejercicios Resueltos #
+# EJERCICIOS RESUELTOS  #
 
 ## APES ##
 
