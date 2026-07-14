@@ -32,7 +32,8 @@
 
 ## ACD ================================= ##
 
-### ACD GRUPAL ###
+- ### ACD GRUPAL ###
+  **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf)** 
 
-### ACD INNDIVIDUAL ###
-**[CLICK PARA VISUALIZAR](ACD.md)**
+- ### ACD INNDIVIDUAL ###
+  **[CLICK PARA VISUALIZAR](ACD.md)**
