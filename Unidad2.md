@@ -26,8 +26,8 @@
 
 
 ## AA ================================= ##
-### AA GRUPAL ###
-**[CLICK PARA VISUALIZAR](AA2-MatematicasDiscreatas.pdf)**
+- ### AA GRUPAL ###
+  **[CLICK PARA VISUALIZAR](AA2-MatematicasDiscreatas.pdf)**
 
 
 
