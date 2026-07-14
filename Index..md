@@ -60,6 +60,36 @@
 ---
 
 ## 📕 Unidad 3
-- *(Agregar contenido cuando esté disponible)*
+3.1. PRESENTACION PARTICIPATIVA DE LOS FUNDAMENTO DE TEORIA DE GRAFOS ==================
+
+Teoria de Grafos
+- Definiciones básicas y su representación
+- Terminología y caracterización de los grafos
+Paseos y circuito
+- Caminos y circuitos
+- Paseos y circuitos de Euler
+- Paseos y circuitos de Hamilton
+
+Alagoritmos para grafos
+- Definiciones
+- Algoritmo de Fleury
+- Algoritmo de Dijktra
+
+Representaciones en Matrices
+- Matriz de adyacencia
+- Matriz de incidencia
+
+
+3.2. FUNDAMENTOS DE TEORIA DE ARBOLES ================================
+
+Árboles Tipos de Arboles
+- Definiciones
+- Aplicaciones
+
+Árboles Enraizados
+- Longitud de paseo en árboles
+- Código de Prefijos
+- Árboles de búsqueda binaria
+- Recorridos en un árbol
 
 ---
