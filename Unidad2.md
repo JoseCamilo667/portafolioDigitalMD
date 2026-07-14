@@ -1,6 +1,6 @@
 # UNIDAD 2 - EJERCICIOS RESUELTOS  #
 
-## APES ================================= ##
+## APES ##
 
 ### APES INDIVIDUALES ###
 
@@ -25,13 +25,13 @@
   **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%203%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf)**
 
 
-## AA ================================= ##
+## AA  ##
 - ### AA GRUPAL ###
   **[CLICK PARA VISUALIZAR](AA2-MatematicasDiscreatas.pdf)**
 
 
 
-## ACD ================================= ##
+## ACD  ##
 
 - ### ACD Grupal ###
   **[CLICK PARA VISUALIZAR](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%20U2%20-%20Matem%C3%A1ticas%20Discretas.pdf)** 
