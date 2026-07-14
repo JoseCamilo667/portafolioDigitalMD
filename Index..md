@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Navegación Rápida
-#### A Continuacion podra seleccionar a que unidad deseea escojer ####
+#### A Continuacion podra seleccionar a que unidad deseea ir ####
 [![Unidad 1](https://img.shields.io/badge/📘_Unidad_1-4CAF50?style=for-the-badge)](Unidad1.md)
 
 [![Unidad 2](https://img.shields.io/badge/📙_Unidad_2-2196F3?style=for-the-badge)](Unidad2.md)
