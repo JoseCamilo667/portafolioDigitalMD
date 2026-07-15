@@ -1,21 +1,58 @@
+<div align="center">
+
 # 🌐 Grafos
 
-Los **grafos** constituyen una de las estructuras más importantes dentro de las **Matemáticas Discretas**, ya que permiten representar y analizar relaciones entre diferentes elementos de manera clara, organizada y eficiente. Un grafo está formado por un conjunto de **vértices (o nodos)** y un conjunto de **aristas**, las cuales establecen conexiones entre dichos vértices. Gracias a esta representación, es posible modelar una gran variedad de situaciones del mundo real y resolver problemas complejos mediante algoritmos especializados.
+> *"Los grafos permiten representar relaciones entre elementos y constituyen una de las herramientas más utilizadas en las Matemáticas Discretas y la Ingeniería en Computación."*
 
-Entre las aplicaciones más comunes de los grafos se encuentran las **redes de computadoras**, donde los dispositivos se representan como nodos y las conexiones como aristas; las **redes sociales**, en las que cada persona es un vértice y las relaciones entre usuarios forman las conexiones; los **sistemas de transporte**, utilizados para encontrar la ruta más corta entre dos ciudades; los **mapas digitales**, los sistemas eléctricos, las redes de telecomunicaciones e incluso los videojuegos y la inteligencia artificial.
+</div>
 
-Los grafos pueden clasificarse en diferentes tipos, entre ellos:
+---
 
-- 🔗 **Grafos dirigidos**, donde las aristas poseen una dirección específica.
-- ↔️ **Grafos no dirigidos**, donde las conexiones funcionan en ambos sentidos.
-- ⚖️ **Grafos ponderados**, cuyas aristas tienen un peso o costo asociado.
-- 🌐 **Grafos conexos**, en los que existe un camino entre cualquier par de vértices.
+## 📖 ¿Qué son los grafos?
 
-El estudio de los grafos también incluye algoritmos fundamentales como la **Búsqueda en Anchura (BFS)** y la **Búsqueda en Profundidad (DFS)**, ampliamente utilizados para recorrer grafos, encontrar rutas, verificar conectividad y resolver problemas de optimización.
+Los **grafos** son estructuras matemáticas formadas por un conjunto de **vértices (o nodos)** y **aristas**, las cuales representan las conexiones existentes entre dichos vértices.
 
-Gracias a esta herramienta es posible resolver problemas relacionados con la **búsqueda de caminos**, la **optimización de rutas**, la **conectividad**, la **planificación de redes** y la **organización eficiente de la información**. Además, fortalece el razonamiento lógico, la capacidad de análisis y la resolución de problemas, competencias indispensables para un estudiante de **Ingeniería en Computación**.
+Gracias a esta estructura es posible modelar y resolver problemas del mundo real relacionados con la comunicación, el transporte, la informática y la organización de datos. Su estudio constituye uno de los pilares de las Matemáticas Discretas, ya que permite comprender cómo interactúan diferentes elementos dentro de un sistema.
 
-Comprender los conceptos básicos de los grafos y sus aplicaciones permite apreciar cómo las matemáticas discretas constituyen la base de numerosas tecnologías modernas, desde Internet hasta los sistemas de navegación GPS y las plataformas de redes sociales.
+---
+
+## ✨ Características principales
+
+- 🔹 Representan relaciones entre objetos.
+- 🔹 Pueden ser **dirigidos** o **no dirigidos**.
+- 🔹 Las aristas pueden tener un **peso o costo**.
+- 🔹 Permiten modelar redes complejas de forma sencilla.
+- 🔹 Son la base de numerosos algoritmos de búsqueda y optimización.
+
+---
+
+## 🌍 Aplicaciones
+
+Los grafos tienen aplicaciones en numerosos campos de la informática y la ingeniería:
+
+- 🌐 Redes de computadoras e Internet.
+- 📍 Sistemas GPS y mapas digitales.
+- 🚍 Optimización de rutas de transporte.
+- 👥 Redes sociales.
+- 📞 Telecomunicaciones.
+- ⚡ Redes eléctricas.
+- 🤖 Inteligencia Artificial.
+- 🎮 Desarrollo de videojuegos.
+
+---
+
+## 💡 Algoritmos más utilizados
+
+Entre los algoritmos estudiados en esta unidad destacan:
+
+| Algoritmo | Función |
+|:---------|:--------|
+| 🔍 **BFS (Breadth First Search)** | Recorre el grafo por niveles. |
+| 🌳 **DFS (Depth First Search)** | Recorre el grafo explorando la mayor profundidad posible. |
+| 📌 **Dijkstra** | Encuentra la ruta más corta entre vértices. |
+| 🛣️ **Floyd-Warshall** | Calcula las distancias mínimas entre todos los nodos. |
+
+Estos algoritmos permiten resolver problemas de búsqueda, conectividad y optimización de caminos.
 
 ---
 
@@ -23,66 +60,94 @@ Comprender los conceptos básicos de los grafos y sus aplicaciones permite aprec
 
 ### 📊 Representación de un Grafo
 
-<img width="900" alt="Grafos" src="https://github.com/user-attachments/assets/3cd2c757-ad7e-4511-a121-d9f5f56d6d5c"/>
+<img src="https://github.com/user-attachments/assets/3cd2c757-ad7e-4511-a121-d9f5f56d6d5c" width="550"/>
 
 </div>
 
 ---
 
-## 📂 Materiales del Tema: Grafos
+## 📂 Material del Tema
 
 | 📄 Actividad | 📌 Descripción | 🔗 Recurso |
 |:------------|:--------------:|:----------|
 | 📖 **AA** | Unidad 3 | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/AA%20U3%20-%20Matem%C3%A1ticas%20Discretas%20(1).pdf) |
 | 👨‍🏫 **ACD 1** | Unidad 3 | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%201%20U3%20-%20Matem%C3%A1ticas%20Discretas.pdf) |
-| 📝 **APE** | Fases 1 y 2 (Grafos) | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%201%20U3%20-%20Matem%C3%A1ticas%20DiscretaS.pdf) |
-| 🎥 **Video Explicativo** | Unidad 3 | [▶️ Ver Video](https://drive.google.com/file/d/1vMDqCEL4-5YimCy5wLUO00TqdKrodkMu/view?usp=sharing) |
+| 📝 **APE** | Fases 1 y 2 | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%201%20U3%20-%20Matem%C3%A1ticas%20DiscretaS.pdf) |
+| 🎥 **Video** | Explicación del tema | [▶️ Ver Video](https://drive.google.com/file/d/1vMDqCEL4-5YimCy5wLUO00TqdKrodkMu/view?usp=sharing) |
 
 ---
 
+<br>
+
+<div align="center">
+
 # 🌳 Árboles
 
-Los **árboles** constituyen una de las estructuras de datos más importantes dentro de las **Matemáticas Discretas** y la **Informática**, ya que permiten representar información de forma **jerárquica**, organizada y eficiente. Un árbol está formado por un conjunto de **nodos** conectados mediante **aristas**, donde existe un único camino entre dos nodos y no se forman ciclos.
+> *"Los árboles permiten organizar la información de forma jerárquica y constituyen una de las estructuras de datos más utilizadas en programación."*
 
-Dentro de un árbol se distinguen varios elementos fundamentales:
+</div>
 
-- 🌱 **Raíz:** nodo principal del cual se originan todos los demás.
-- 🌿 **Nodo padre:** nodo que posee uno o más hijos.
-- 🍃 **Nodo hijo:** nodo que depende de un nodo padre.
-- 🍂 **Nodo hoja:** nodo que no posee hijos.
-- 📏 **Altura del árbol:** longitud del camino más largo desde la raíz hasta una hoja.
-- 📐 **Nivel o profundidad:** distancia de un nodo respecto a la raíz.
+---
 
-Gracias a su estructura jerárquica, los árboles facilitan la organización, almacenamiento y búsqueda rápida de información en numerosas aplicaciones, tales como:
+## 📖 ¿Qué son los árboles?
+
+Los **árboles** son estructuras jerárquicas formadas por **nodos** conectados mediante **aristas**, donde existe un único camino entre dos nodos y **no existen ciclos**.
+
+Gracias a esta organización es posible almacenar, buscar y ordenar información de manera mucho más eficiente que utilizando estructuras lineales.
+
+---
+
+## 🌿 Elementos principales
+
+| Elemento | Descripción |
+|:---------|:------------|
+| 🌱 **Raíz** | Nodo principal del árbol. |
+| 🌿 **Padre** | Nodo que posee uno o varios hijos. |
+| 🍃 **Hijo** | Nodo que depende de un padre. |
+| 🍂 **Hoja** | Nodo que no tiene hijos. |
+| 📏 **Altura** | Longitud máxima desde la raíz hasta una hoja. |
+| 📍 **Nivel** | Distancia de un nodo respecto a la raíz. |
+
+---
+
+## 🌲 Tipos de árboles
+
+- 🌳 Árbol Binario
+- 🔎 Árbol Binario de Búsqueda (BST)
+- ⚖️ Árbol AVL
+- 📚 Árbol B
+- 🌲 Árbol B+
+- 🔴⚫ Árbol Rojo-Negro
+
+Cada uno posee características particulares que permiten optimizar la búsqueda y el almacenamiento de información.
+
+---
+
+## 🔄 Recorridos
+
+Los recorridos permiten visitar todos los nodos del árbol siguiendo un orden determinado.
+
+| Recorrido | Orden |
+|:----------|:------|
+| ▶️ **Preorden** | Raíz → Izquierdo → Derecho |
+| 🔄 **Inorden** | Izquierdo → Raíz → Derecho |
+| ⏹️ **Postorden** | Izquierdo → Derecho → Raíz |
+
+Estos recorridos son fundamentales para el desarrollo de algoritmos y estructuras de datos.
+
+---
+
+## 💻 Aplicaciones
+
+Los árboles son ampliamente utilizados en:
 
 - 📁 Sistemas de archivos.
 - 🗄️ Bases de datos.
-- 🌐 Motores de búsqueda.
-- 👨‍👩‍👧 Árboles genealógicos.
-- 💻 Compiladores e intérpretes.
+- 🔍 Motores de búsqueda.
 - 🤖 Inteligencia Artificial.
-- 🔍 Algoritmos de búsqueda y clasificación.
-
-Existen diferentes tipos de árboles, cada uno diseñado para resolver necesidades específicas:
-
-- 🌿 Árboles Binarios.
-- 🔎 Árboles Binarios de Búsqueda (BST).
-- ⚖️ Árboles AVL.
-- 📚 Árboles B.
-- 🌲 Árboles B+.
-- 🔴⚫ Árboles Rojo-Negro.
-
-Una de las operaciones más importantes es el **recorrido del árbol**, que consiste en visitar todos sus nodos siguiendo un orden determinado. Los recorridos más utilizados son:
-
-- ▶️ **Preorden:** Raíz → Izquierdo → Derecho.
-- 🔄 **Inorden:** Izquierdo → Raíz → Derecho.
-- ⏹️ **Postorden:** Izquierdo → Derecho → Raíz.
-
-Estos recorridos permiten realizar tareas como imprimir información, evaluar expresiones, reconstruir árboles y recorrer estructuras de datos de forma eficiente.
-
-El estudio de los árboles fortalece el pensamiento lógico y el diseño de algoritmos eficientes, convirtiéndose en una base indispensable para asignaturas como **Estructuras de Datos**, **Bases de Datos**, **Sistemas Operativos**, **Inteligencia Artificial**, **Minería de Datos** y **Desarrollo de Software**.
-
-Comprender su funcionamiento permite desarrollar aplicaciones con un mejor rendimiento, optimizando el almacenamiento y el acceso a grandes volúmenes de información.
+- 💻 Compiladores.
+- 🌐 Sistemas operativos.
+- 📊 Organización y clasificación de datos.
 
 ---
 
@@ -90,19 +155,27 @@ Comprender su funcionamiento permite desarrollar aplicaciones con un mejor rendi
 
 ### 🌳 Representación de un Árbol
 
-<img width="900" alt="Árboles" src="https://github.com/user-attachments/assets/ded02280-1006-4961-af69-27e6cfab8720"/>
+<img src="https://github.com/user-attachments/assets/ded02280-1006-4961-af69-27e6cfab8720" width="550"/>
 
 </div>
 
 ---
 
-## 📂 Materiales del Tema: Árboles
+## 📂 Material del Tema
 
 | 📄 Actividad | 📌 Descripción | 🔗 Recurso |
 |:------------|:--------------:|:----------|
 | 📖 **AA** | Unidad 3 | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/AA%20U3%20-%20Matem%C3%A1ticas%20Discretas%20(1).pdf) |
 | 👨‍🏫 **ACD 2** | Unidad 3 | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%201%20U3%20-%20Matem%C3%A1ticas%20Discretas.pdf) |
 | 📝 **APE** | Fases 3, 4 y 5 | [📄 Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/APE%201%20U3%20-%20Matem%C3%A1ticas%20DiscretaS.pdf) |
-| 🎥 **Video Explicativo** | Unidad 3 | [▶️ Ver Video](https://drive.google.com/file/d/1vMDqCEL4-5YimCy5wLUO00TqdKrodkMu/view?usp=sharing) |
+| 🎥 **Video** | Explicación del tema | [▶️ Ver Video](https://drive.google.com/file/d/1vMDqCEL4-5YimCy5wLUO00TqdKrodkMu/view?usp=sharing) |
 
 ---
+
+<div align="center">
+
+⭐ **Universidad Nacional de Loja**  
+💻 **Ingeniería en Computación**  
+📚 **Portafolio Digital - Matemáticas Discretas**
+
+</div>
