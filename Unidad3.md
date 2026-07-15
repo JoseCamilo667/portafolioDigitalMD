@@ -4,6 +4,11 @@ Los grafos constituyen una de las estructuras más importantes dentro de las mat
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3cd2c757-ad7e-4511-a121-d9f5f56d6d5c" />
 
 ## Archivos acerca del tema 
+| Actividad | Fases | Enlace |
+|:----------|:-----:|:-------|
+| **AA** | Unidad 3  | 📄 [Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/AA%20U3%20-%20Matem%C3%A1ticas%20Discretas%20(1).pdf) |
+| **ACD 1** | Unidad 3 | 📄 [Ver PDF](https://github.com/JoseCamilo667/portafolioDigitalMD/blob/main/ACD%201%20U3%20-%20Matem%C3%A1ticas%20Discretas.pdf) |
+| **Video** | Unidad 3 | 📄 [Ver PDF](https://drive.google.com/file/d/1vMDqCEL4-5YimCy5wLUO00TqdKrodkMu/view?usp=sharing) |
 
 
 
