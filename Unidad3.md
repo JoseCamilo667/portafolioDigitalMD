@@ -1,3 +1,12 @@
+# 📘 Unidad 3 - Grafos y Árboles
+
+> *"En esta unidad se estudian dos de las estructuras más importantes de las Matemáticas Discretas, fundamentales para el desarrollo de algoritmos y la representación eficiente de la información."*
+
+La **Unidad 3** está enfocada en el estudio de los **grafos** y los **árboles**, estructuras matemáticas ampliamente utilizadas en la informática para modelar relaciones, organizar información y resolver problemas complejos mediante algoritmos eficientes. A lo largo de esta unidad se analizan sus conceptos fundamentales, propiedades, tipos, recorridos y aplicaciones prácticas en áreas como las redes de computadoras, bases de datos, sistemas operativos, inteligencia artificial y desarrollo de software. El dominio de estos temas fortalece el pensamiento lógico y computacional, proporcionando las bases necesarias para el estudio de asignaturas como **Estructuras de Datos** y **Análisis de Algoritmos**.
+
+---
+
+
 <div align="center">
 
 # 🌐 Grafos
