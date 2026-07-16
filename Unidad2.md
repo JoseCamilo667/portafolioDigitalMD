@@ -1,5 +1,9 @@
 # 📚 Unidad 2 - Ejercicios Resueltos
 
+## 📖 Introducción
+
+La **Unidad 2 de Matemáticas Discretas** está orientada al estudio de los **árboles**, una de las estructuras de datos más importantes en el ámbito de la informática. Durante el desarrollo de esta unidad se realizaron diferentes actividades individuales y grupales que permitieron comprender conceptos como los tipos de árboles, árboles binarios y sus recorridos (**preorden, inorden y postorden**), así como sus principales aplicaciones en la organización y representación de información. Los ejercicios resueltos evidencian el fortalecimiento del pensamiento lógico y las habilidades para analizar y resolver problemas mediante estructuras jerárquicas.
+
 ---
 
 # 📝 Aprendizajes Prácticos Experimentales (APES)
